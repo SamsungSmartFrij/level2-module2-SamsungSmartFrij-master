@@ -15,6 +15,6 @@ public class Segment {
     private Segment()
     {
         x = 0;
-        y = 0;
+        y = 0; AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     }
 }
